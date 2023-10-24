@@ -16,7 +16,7 @@ pip install python-nmap scapy
 
 # Uso
 ## Ejecutar el programa
-```b
+```bash
 ./iothunter.py 
 ```
 Por defecto, la herramienta escaneará la red 192.168.1.0/24.
