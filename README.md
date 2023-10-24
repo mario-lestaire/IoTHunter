@@ -14,18 +14,19 @@ Puedes instalar las librerías necesarias usando `pip`:
 pip install python-nmap scapy
 ```
 
-## Uso
-Ejecutar el programa
+# Uso
+## Ejecutar el programa
 ```b
-python nombre_del_script.py
+./iothunter.py 
 ```
 Por defecto, la herramienta escaneará la red 192.168.1.0/24.
 
-Especificar un rango IP diferente
+## Especificar un rango IP diferente
 ```bash
 python nombre_del_script.py -r 192.168.0.0/24
 ```
 Cambia 192.168.0.0/24 al rango deseado.
+
 
 
 
