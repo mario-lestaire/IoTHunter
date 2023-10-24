@@ -31,6 +31,7 @@ Cambia 192.168.0.0/24 al rango deseado.
 Detección de Dispositivos en la Red: La herramienta primero identifica todos los dispositivos activos en la red local mediante el protocolo ARP.
 Identificación de Dispositivos IoT: A continuación, se escanea cada dispositivo identificado para determinar si tiene puertos abiertos que son comunes en dispositivos IoT. La identificación se basa en una lista predefinida de puertos que son típicos de dispositivos IoT.
 
+###Uso
 ###Funcionamiento
 #1: Detección de Dispositivos en la Red: La herramienta primero identifica todos los dispositivos activos en la red local mediante el protocolo ARP.
 #2: Identificación de Dispositivos IoT: A continuación, se escanea cada dispositivo identificado para determinar si tiene puertos abiertos que son comunes en dispositivos IoT. La identificación se basa en una lista predefinida de puertos que son típicos de dispositivos IoT.
